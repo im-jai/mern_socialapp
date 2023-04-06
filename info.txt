@@ -1,0 +1,7 @@
+// Mongo Db :
+
+username : dummyuser
+password : dummyuser123
+
+location : mumbai region
+cluster0
